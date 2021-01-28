@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      "parcel-plugin-wasm-blob@1.0.0",
+      "C:\\Users\\damie\\Desktop\\linto\\webvoicesdk"
+    ]
+  ],
+  "_development": true,
+  "_from": "parcel-plugin-wasm-blob@1.0.0",
+  "_id": "parcel-plugin-wasm-blob@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ETCPmFBVIZR3NKcsMHmbMXEduFIL9bWX65DE7JdN+2Pvd+yzrojf36SB9ftqkPpbksp5VFXEjLf94obAmUoj7g==",
+  "_location": "/parcel-plugin-wasm-blob",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "parcel-plugin-wasm-blob@1.0.0",
+    "name": "parcel-plugin-wasm-blob",
+    "escapedName": "parcel-plugin-wasm-blob",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/parcel-plugin-wasm-blob/-/parcel-plugin-wasm-blob-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "C:\\Users\\damie\\Desktop\\linto\\webvoicesdk",
+  "author": {
+    "name": "Damien Laine",
+    "email": "damien.laine@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/damienlaine/parcel-plugin-wasm-blob/issues"
+  },
+  "description": "Inline WebAssembly (wasm) files in your app bundle. Access inlined binaries with blob URLs",
+  "directories": {
+    "lib": "lib"
+  },
+  "homepage": "https://github.com/damienlaine/parcel-plugin-wasm-blob#readme",
+  "keywords": [
+    "parcel",
+    "parcel-bundler",
+    "parcel-plugin",
+    "wasm",
+    "webassembly",
+    "inline",
+    "blob",
+    "script tag"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "parcel-plugin-wasm-blob",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damienlaine/parcel-plugin-wasm-blob.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
